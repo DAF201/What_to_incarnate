@@ -12,15 +12,15 @@ Esc 退出摄像头
 
 tips:
 
-1. 我们是*?
-2. C is what in ABCDE ?
-3. JUN 08?
-4. what you are?
+1. 我们是*
+2. C is what in ABCDE
+3. 早该杀杀了
+4. what you are
 5. たいさ
 6. J.A.R.V.I.S.
-7. pink*?
+7. pink*
 8. a white thing I hate
-9. jokers are crazy for?
+9. 小丑回魂
 10. 6
 11. 退环境了
 
