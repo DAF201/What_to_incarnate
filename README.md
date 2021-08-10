@@ -23,6 +23,7 @@ tips:
 9. 小丑回魂
 10. 6
 11. 退环境了
+12. 枝江艺术展
 
 需要以下package:
 
@@ -48,3 +49,5 @@ tips:
      pip install git+https://github.com/RimoChan/kill3d.git
  
 感谢RimoChan大佬的package
+
+8是羊驼，但是由于我对官方梁木没加,需要自己加到资源包里,lama.png
