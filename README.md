@@ -22,6 +22,7 @@ tips:
 8. a white thing I hate
 9. jokers are crazy for?
 10. 6
+11. 退环境了
 
 需要以下package:
 
