@@ -6,6 +6,8 @@ Ctrl + z 截屏
 
 Ctrl + x 播放 https://www.bilibili.com/video/av502193304
 
+Esc 退出摄像头
+
 需要以下package:
 
     winsound
