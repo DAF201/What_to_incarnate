@@ -4,7 +4,7 @@ python multi_processing.py
 
 Ctrl + z 截屏
 
-Ctrl + x 播放 <a herf="https://www.bilibili.com/video/av502193304">红色高跟鞋</a>
+Ctrl + x 播放 https://www.bilibili.com/video/av502193304
 
 需要以下package:
 
