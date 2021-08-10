@@ -1,6 +1,6 @@
 # What_to_incarnate
 
-python multi_processing.py
+目录底下python multi_processing.py
 
 Ctrl + z 截屏
 
