@@ -52,7 +52,7 @@ tips:
      pip install git+https://github.com/RimoChan/kill3d.git
  
 感谢RimoChan大佬的package
-
+https://github.com/RimoChan
 ___
 
 8是羊驼，但是由于我对官方梁木没加,需要自己弄个透明的lama.png加到资源包里(不加也不影响使用，会用别的顶上)
