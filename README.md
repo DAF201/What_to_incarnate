@@ -4,7 +4,7 @@
 
 Ctrl + z 截屏
 
-Ctrl + x 播放 https://www.bilibili.com/video/av502193304,再按一次关闭
+Ctrl + x 播放 https://www.bilibili.com/video/av502193304 ,再按一次关闭
 
 Esc 退出摄像头
 
