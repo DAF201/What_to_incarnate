@@ -188,7 +188,7 @@ def covered() -> str:
         covered = r".\source\high_heel.png"
     elif user == '流汗黄豆' or user == '😅':
         covered = r".\source\sweating_soybean.png"
-    elif user == 'hj' or user == '汉奸' or user == 'traitor':
+    elif user == 'hj' or user == '汉奸' or user == 'traitor' or '东' in user or '眠' in user:
         covered = r".\source\traitor.png"
     elif user == 'robot' or user == '机器人':
         covered = r".\source\robot.png"
