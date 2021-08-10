@@ -50,4 +50,6 @@ tips:
  
 感谢RimoChan大佬的package
 
+
+
 8是羊驼，但是由于我对官方梁木没加,需要自己弄个透明的lama.png加到资源包里,
