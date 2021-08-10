@@ -1,5 +1,11 @@
 # What_to_incarnate
 
+python multi_processing.py
+
+Ctrl + z 截屏
+
+Ctrl + x 播放<a href:"https://www.bilibili.com/video/av502193304">红色高跟鞋</a>
+
 需要以下package:
 
     winsound
