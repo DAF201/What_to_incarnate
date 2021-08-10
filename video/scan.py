@@ -194,8 +194,12 @@ def covered() -> str:
         covered = r".\source\robot.png"
     elif user == 'demon' or user == '恶魔':
         covered = r".\source\demon.png"
-    elif user == 'microphone' or user == 'jb':
+    elif user == 'microphone' or user == 'jb' or user == '🎤':
         covered = r".\source\microphone.png"
+    elif user == 'myself' or user == '我':
+        covered = r".\source\you.png"
+    elif user == 'glove' or '手套' in user:
+        covered = r".\source\glove.png"
     elif user == 'lama' or user == '羊驼' or user == '阿草':
         if os.path.isfile(PATH+'\source\lama.png'):
             covered = r".\source\lama.png"
